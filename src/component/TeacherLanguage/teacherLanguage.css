@@ -1,0 +1,35 @@
+.icn-bg-1{
+    background: linear-gradient(135deg, rgba(255, 81, 0, 0.5) 14.5%, #FF5100 100%);
+box-shadow: 2px 4px 25px rgba(136, 136, 136, 0.3);
+
+}
+.icn-bg-2{
+    background: linear-gradient(135deg, rgba(255, 158, 0, 0.5) 10.94%, #FF9E00 100%);
+box-shadow: 2px 4px 25px rgba(136, 136, 136, 0.3);
+
+}
+.icn-bg-3{
+    background: linear-gradient(135deg, rgba(28, 107, 45, 0.5) 17.71%, #1C6B2D 100%);
+box-shadow: 2px 4px 20px rgba(136, 136, 136, 0.3);
+
+}
+.icn-bg-4{
+    background: linear-gradient(135deg, rgba(18, 107, 122, 0.5) 14.58%, #126B7A 100%);
+box-shadow: 2px 4px 25px rgba(136, 136, 136, 0.3);
+
+}
+.icn-bg-5{
+    background: linear-gradient(135deg, rgba(18, 41, 122, 0.5) 16.67%, #12297A 100%);
+box-shadow: 2px 4px 25px rgba(136, 136, 136, 0.3);
+
+}
+.icn-bg-6{
+    background: linear-gradient(135deg, rgba(77, 28, 107, 0.5) 19.21%, #4D1C6B 100%);
+box-shadow: 2px 4px 25px rgba(136, 136, 136, 0.3);
+
+}
+.icn-bg-7{
+    background: linear-gradient(135deg, rgba(107, 28, 90, 0.5) 23.26%, #6B1C5A 100%);
+box-shadow: 2px 4px 25px rgba(136, 136, 136, 0.3);
+
+}

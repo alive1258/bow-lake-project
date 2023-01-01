@@ -1,0 +1,55 @@
+.separator{
+    width: 240px;
+    height: 0px;
+    border-radius: 8px;
+    border: 4px solid #B2DABA;
+    transform: rotate(89.02deg);
+    
+    /* Inside auto layout */
+    
+    /* flex: none; */
+    /* order: 1; */
+    /* flex-grow: 0; */
+}
+.cls {
+    border: 1px solid #b8cbbb;
+    border-radius: 50%;
+    height: 153px;
+    width: 153px;
+   
+}
+.techr{
+    
+    width: 203px;
+height: 106px;
+left: 0px;
+top: 45px;
+
+border: 1.85457px solid #DCE6DE;
+
+}
+.stdnt{
+    width: 204px;
+height: 116px;
+/* left: 543px; */
+top: 35px;
+
+border: 1.85457px solid #DCE6DE;
+transform: matrix(1, 0, 0, 1, 0, -.2);
+
+}
+.qutality{
+    /* display: flex; */
+/* flex-direction: row; */
+/* align-items: flex-start; */
+padding: 20px 20px 30px;
+gap: 24px;
+
+width: 363.5px;
+height: 147px;
+
+background: #FFFFFF;
+box-shadow: 4px 16px 40px rgba(136, 136, 136, 0.16);
+border-radius: 14px;
+
+}

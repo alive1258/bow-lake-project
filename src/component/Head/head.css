@@ -1,0 +1,18 @@
+.bgliner-1 {
+    /* background: linear-gradient(125.57deg, rgba(242, 253, 248, 0) 9.45%, #E9FFF4 70.85%); */
+background-image: url("../img/Vector.svg");
+
+background-repeat: no-repeat;
+position: fixed;
+background-size: cover;
+height: 925px;
+/* background-color: blue; */
+/* width: 100%; */
+/* background-size: cover; */
+position: relative;
+/* width: 1440px; */
+/* height: 100%; */
+
+
+
+}
